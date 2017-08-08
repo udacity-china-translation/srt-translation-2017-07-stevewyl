@@ -28,7 +28,7 @@ we need to multiply that by 24 to get the number
 
 8
 00:00:21,850 --> 00:00:25,460
-of hours And then multiply again, by 60. That should give
+of hours. And then multiply again, by 60. That should give
 
 9
 00:00:25,460 --> 00:00:30,770
