@@ -1,5 +1,4 @@
 # srt-translation-training-material
-测试
 
 ## 试译流程
 
